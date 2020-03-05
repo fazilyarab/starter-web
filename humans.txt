@@ -6,6 +6,13 @@
 
     <name> -- <role> -- <twitter>
 
+
+### Skills 
+
+DEVOPS
+AWS 
+
+
 # THANKS
 
     <name>
