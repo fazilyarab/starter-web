@@ -13,3 +13,13 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
+
+# Author
+
+fazil
+
+## India
+
+I"m from india.
