@@ -30,3 +30,9 @@ This nw file
 ## @@@new class 
 
 This new cls function
+
+
+
+#### added this line for stash testing 
+
+i added this line for a stash testing
